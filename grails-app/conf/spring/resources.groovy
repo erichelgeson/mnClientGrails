@@ -1,4 +1,3 @@
-import clients.RecaptchaClient
 import io.micronaut.http.client.annotation.Client
 import io.micronaut.spring.beans.MicronautBeanProcessor
 
