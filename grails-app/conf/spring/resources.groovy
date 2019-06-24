@@ -4,5 +4,5 @@ import io.micronaut.spring.beans.MicronautBeanProcessor
 
 // Place your Spring DSL code here
 beans = {
-    httpClientBeanProcessor(MicronautBeanProcessor, [Client, RecaptchaClient])
+    httpClientBeanProcessor(MicronautBeanProcessor, [Client])
 }
